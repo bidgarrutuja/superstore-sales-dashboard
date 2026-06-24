@@ -1,5 +1,9 @@
 # 📊 Superstore Sales Dashboard
+# Live Dashboard
+   
+   https://docs.google.com/spreadsheets/d/e/2PACX-1vTY_tQqYWNvArrW04I1HQ5wOtGCN7YacSVjALaxyCZ8ttFqokDP_37I_Zd3ioq0xlTi601RGTDdK0EQ/pubhtml
 
+# Project Overiew
 An end-to-end sales analysis project built on **9,994 orders** using **Google Sheets**, uncovering revenue trends, regional performance, and customer insights through an interactive dashboard.
 
 ---
@@ -104,6 +108,8 @@ superstore-sales-dashboard/
 * Data Visualization
 * Business Intelligence
 * Google Sheets
+
+---
 
 ---
 
